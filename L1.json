@@ -13,8 +13,10 @@
     ")\n0",
     "_\n-",
     "+\n=",
-    "backspace",
-    "del"
+    {
+      "w": 2
+    },
+    "backspace"
   ],
   [
     {
@@ -74,8 +76,10 @@
     "<\n,",
     ">\n.",
     "?\n/",
-    "rshift",
     "up",
+    {
+      "w": 2
+    },
     "rshift"
   ],
   [
@@ -96,9 +100,9 @@
     },
     "spacebar",
     "lwin",
-    "rctrl",
     "left",
     "down",
-    "right"
+    "right",
+    "rctrl"
   ]
 ]

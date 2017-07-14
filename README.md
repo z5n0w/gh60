@@ -6,12 +6,9 @@ Layer 1:
 Layer 2:
     ![Layer 2](https://github.com/z5n0w/gh60/raw/master/L2.png)
 
-Layer 3:
-    ![Layer 3](https://github.com/z5n0w/gh60/raw/master/L3.png)
-
 firmware:
 
-    gh60-reva_b_c-no_console.hex from tkg-toolkit
+    firmware.hex from tkg.press
 
 dfu-programmer commands to flash firmware & keymap:
 
