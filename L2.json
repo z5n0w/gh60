@@ -28,7 +28,7 @@
       "a": 4
     },
     "btn1",
-    "wheelup",
+    "mouseup",
     "btn2",
     {
       "a": 7
@@ -36,14 +36,14 @@
     "",
     "",
     "",
+    "",
     {
       "a": 4
     },
-    "mouseup",
+    "wheelup",
     {
       "a": 7
     },
-    "",
     "",
     {
       "a": 4
@@ -54,7 +54,7 @@
     {
       "w": 1.5
     },
-    "prtsc"
+    "insert"
   ],
   [
     {
@@ -65,21 +65,21 @@
     {
       "a": 4
     },
-    "wheelleft",
-    "wheeldown",
-    "wheelright",
+    "mouseleft",
+    "mousedown",
+    "mouseright",
     {
       "a": 7
     },
     "",
     "",
+    "",
     {
       "a": 4
     },
-    "mouseleft",
-    "mousedown",
-    "mouseright",
-    "mute",
+    "wheelleft",
+    "wheeldown",
+    "wheelright",
     "vol_dn",
     "vol_up",
     {
@@ -109,15 +109,9 @@
     {
       "a": 4
     },
-    "ins",
+    "prtsrc",
     "scrlk",
-    {
-      "a": 7
-    },
-    "",
-    {
-      "a": 4
-    },
+    "break",
     "pgup",
     {
       "a": 7,
